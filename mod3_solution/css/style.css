@@ -27,7 +27,6 @@ body {
 }
 #navlist a {
     color: black;
-    text-align: center;
 }
 #navlist a:hover {
     background-color: #e7e7e7;
